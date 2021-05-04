@@ -8,23 +8,23 @@
     margin-bottom: 50px;
     margin-left: 200px;
 }
-.Fitness-Card {
+.Anime-Card {
     max-height: 140px;
     max-width: 520px;
 }
-.Fitness-Card-Info {
+.Anime-Card-Info {
     padding-left: 0;
     padding-right: 75px;
 }
-.Fitness-Card-Info h1{
+.Anime-Card-Info h1{
     font-size: 23px;
     color: white;
 }
-.Fitness-Card-Info p{
+.Anime-Card-Info p{
     font-size: 11px;
     color: white;
 }
-.Fitness-Add {
+.Anime-Add {
     display: block;
     margin-left: auto;
     margin-right: auto;
