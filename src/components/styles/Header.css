@@ -1,0 +1,52 @@
+.header {
+  width: 98%;
+  margin: auto;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+.logo {
+  width: 220px;
+}
+.top menu {
+  display: flex;
+}
+.top div.menu {
+  flex: 1;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.btn p {
+  font-weight: 600;
+  font-size: 20px;
+  color: white;
+}
+.btn p:hover {
+  border-bottom: 2px solid white;
+}
+.box {
+  height: 40px;
+  width: 400px;
+  padding-left: 10px;
+  background: #e5e7e9;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.lupa {
+  height: 30px;
+  width: 30px;
+  margin: 12px 5px;
+  cursor: pointer;
+}
+.userImg {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.pass {
+  height: 2px;
+  background-color: #d6eaf8;
+}

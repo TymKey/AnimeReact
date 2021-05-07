@@ -1,0 +1,61 @@
+.catalogo {
+  width: 98%;
+  margin: auto;
+}
+
+.paginador {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.play {
+  height: 30px;
+  width: 30px;
+}
+
+.left {
+  display: flex;
+}
+
+.text {
+  margin-left: 20px;
+  color: white;
+}
+
+.back {
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.next {
+  margin-left: 10px;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+}
+
+.pass1 {
+  height: 2px;
+  background-color: #d6eaf8;
+  margin-bottom: 10px;
+}
+
+.animes {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px;
+  flex-wrap: wrap;
+}
+.anime {
+  height: 350px;
+  width: 280px;
+}
+.name{
+  text-align: center;
+  font-size: 20px;
+  color: white;
+}

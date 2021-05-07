@@ -5,10 +5,10 @@
 
 import React from 'react'
 import ReactDOM from 'react-dom'
-import Card from './components/Card'
+import AnimeYT from './AnimeYT'
 import 'bootstrap/dist/css/bootstrap.css'
 
 const container = document.getElementById('root')
 
 // ReactDOM.render(__QUE___,__DONDE___)
-ReactDOM.render(<Card/>, container)
+ReactDOM.render(<AnimeYT/>, container)
